@@ -1,0 +1,7 @@
+node_modules
+public/robots.txt
+public/logo512.png
+public/logo192.png
+.DS_Store
+.eslintcache
+public/favicon.ico
